@@ -6,6 +6,9 @@ Here's the list of current blocks.
 ### Amplifier
 ![Amplifier](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/amp.svg)
 
+### Attenuator (resistive)
+![attenuator](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/attenuator.svg)
+
 ### All-pass filter
 ![All-pass filter](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/apf.svg)
 
