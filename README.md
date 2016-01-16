@@ -12,6 +12,9 @@ Here's the list of current blocks.
 ### Band-pass filter
 ![Band-pass filter](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/bpf.svg)
 
+### Band-stop filter
+![Band-stop filter](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/bsf.svg)
+
 ### High-pass filter
 ![High-pass filter](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/hpf.svg)
 
