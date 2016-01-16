@@ -39,4 +39,10 @@ Here's the list of current blocks.
 ### IO port - right
 ![io-port-right](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/io-right.svg)
 
+### IO port - left - grounded
+![io-port-left-gnd](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/io-left-gnd.svg)
+
+### IO port - right - grounded
+![io-port-right-gnd](https://cdn.rawgit.com/benishor/rf-symbols/master/svg/io-right-gnd.svg)
+
 Made with :heart: by benishor.
